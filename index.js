@@ -5,4 +5,4 @@ function writeCards(names , eventName){
   }
 }
 
-
+writeCards(["Ada", "Brendan", "Ali"], "birthday");
